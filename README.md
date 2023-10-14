@@ -1,4 +1,4 @@
-# joblib-demo
+# ML app with joblib
 joblib provides a convenient way to serialize Python objects to disk and deserialize them back into memory efficiently. This is particularly useful for saving machine learning models.
 
 # Test with the following
